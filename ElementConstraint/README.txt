@@ -1,0 +1,1 @@
+The code together with its makefile only compiles if you installed SCIP. It currently runs with SCIP version 3.0.2. 
